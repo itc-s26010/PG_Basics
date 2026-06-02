@@ -1,0 +1,9 @@
+print(len("Monty"))  #字数
+print(len("Python"))　#字数
+print(str("100"))    #文字に変換
+print(int("1"))      #整数に変換
+print(float(100))　　#浮動小数点(小数点付き)に変換
+print(int("110"))　　#整数に変換
+print(int(20.54))　　#整数に変換
+print(float("16.4")) #浮動小数点に変換
+print(float(99))　　#浮動小数点に変換
