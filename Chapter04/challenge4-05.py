@@ -6,4 +6,3 @@ def convert(string):
 
 c = convert("ああああ")
 print(c)
-
