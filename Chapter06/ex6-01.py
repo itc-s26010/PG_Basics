@@ -1,7 +1,7 @@
 #ダブルクオーテーション３つで途中改行できる文字列という扱いになる
 print(""" line one
-      line two
-      line three""")
+line two
+line three""")
 
 #関数とか何も指定していない場合はコメントという扱いになる
 """
